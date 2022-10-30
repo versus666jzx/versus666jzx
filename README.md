@@ -2,6 +2,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🧑🏻‍💻+Hi+there!+Thank+you+for+visiting;Hope+we+can+work+together+☕;)
 
 
+## 🔧 My technologies
+
 ![skills](https://skillicons.dev/icons?i=py,pytorch,stackoverflow,docker,kubernetes,md,git,bash,gitlab,grafana,linux,postgres,sqlite,prometheus&theme=light)
 
 
