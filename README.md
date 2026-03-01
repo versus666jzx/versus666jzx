@@ -1,33 +1,32 @@
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🧑🏻‍💻+Hi+there!+Thank+you+for+visiting;Hope+we+can+work+together+☕;)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=80&lines=Andrew+%7C+ML+Engineer+%26+AI+Systems+Architect)
 
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=versus666jzx&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-## 🔧 My technologies
+ML Engineer & AI Systems Architect — designing and deploying production AI systems: from LLM fine-tuning and inference optimization to high-load microservice platforms with monitoring and SLAs.
 
-![skills](https://skillicons.dev/icons?i=py,pytorch,stackoverflow,docker,kubernetes,md,git,bash,gitlab,grafana,linux,postgres,sqlite,prometheus&theme=dark)
+> **5+** years &nbsp;·&nbsp; **16** commercial projects &nbsp;·&nbsp; **35+** production services &nbsp;·&nbsp; **10M** audio min/day ASR platform &nbsp;·&nbsp; **99.982%** uptime
 
+---
 
+### Tech Stack
 
-## ![](images/stack_logo.png) Me on stackoverflow
+| Domain | Technologies |
+|--------|-------------|
+| **LLM & Inference** | PyTorch · HuggingFace · vLLM · Ollama · QLoRA · Unsloth · TensorRT · Triton Inference Server · RAG · LangChain |
+| **Computer Vision** | YOLOv8 · OpenCV · EfficientNet · ResNet-50 · Roboflow |
+| **Backend** | FastAPI · asyncio · gRPC · WebSocket · PostgreSQL · Redis · Elasticsearch · pgvector · FAISS · SQLAlchemy · Alembic |
+| **MLOps & Infra** | Docker · GitLab CI · GitHub Actions · Ray Serve · ClearML · Grafana · Prometheus · Loki · Traefik |
+| **Frontend** | Vue 3 · Nuxt 3 · TypeScript · Tailwind CSS |
+| **Other** | CatBoost · aiogram 3 · Fish Speech TTS · Supabase |
 
-<a href="https://ru.stackoverflow.com/users/471327/andrew"><img src="https://ru.stackoverflow.com/users/flair/471327.png?theme=dark" width="208" height="58"></a> <a href="https://stackoverflow.com/users/12814459/andrew"><img src="https://stackoverflow.com/users/flair/12814459.png?theme=dark" width="208" height="58"></a> <a href="https://datascience.stackexchange.com/users/127950/andrew"><img src="https://datascience.stackexchange.com/users/flair/127950.png?theme=dark" width="208" height="58" ></a> 
+---
 
-<a href="http://www.github.com/versus666jzx"><img src="https://github-readme-stats.vercel.app/api?username=versus666jzx&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="versus666jzx's GitHub stats" /></a>
+### StackOverflow
 
-<!--
-**versus666jzx/versus666jzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://ru.stackoverflow.com/users/471327/andrew"><img src="https://ru.stackoverflow.com/users/flair/471327.png?theme=dark" width="208" height="58" alt="SO RU"></a>&nbsp;
+<a href="https://stackoverflow.com/users/12814459/andrew"><img src="https://stackoverflow.com/users/flair/12814459.png?theme=dark" width="208" height="58" alt="SO EN"></a>&nbsp;
+<a href="https://datascience.stackexchange.com/users/127950/andrew"><img src="https://datascience.stackexchange.com/users/flair/127950.png?theme=dark" width="208" height="58" alt="DS SE"></a>
