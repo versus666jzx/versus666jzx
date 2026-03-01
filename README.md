@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=700&height=80&lines=Andrew+%7C+ML+Engineer+%26+AI+Systems+Architect)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=730&height=80&lines=Andrew+%7C+ML+Engineer+%26+AI+Systems+Architect)
 
 </div>
 
